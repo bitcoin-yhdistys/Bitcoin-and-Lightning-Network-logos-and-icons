@@ -32,7 +32,7 @@ Concept Designs       https://bitcoin.design/guide/getting-started/visual-langua
 Concept Logo 1        https://commons.wikimedia.org/wiki/File:Bitcoin_lightning_sticker.png
 Concept Logo 2        https://github.com/lncm/ideas
                       https://raw.githubusercontent.com/lncm/ideas/master/bitcoin-lightning-accepted.png
-Concept Logo 3        bitcoin-logo.svg (@ottomacig)
+Concept Logo 3        bitcoin-logo.svg (@ottomagic)
 Concept Icon B&Bolt   https://www.reddit.com/user/stashwave/credits to user 
                       https://www.reddit.com/r/lightningnetwork/comments/1487tuv/lightning_network_alt_logo/
                       lightning-network-alt-logo-v0-z07rxbf45q5b1.webp
