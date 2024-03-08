@@ -15,9 +15,14 @@ SVG files editor      https://boxy-svg.com/
 ./colors              https://www.color-hex.com/color-palette/4955
                       Bitcoin Color Palette.pdf
 
-./sources             https://cryptologos.cc/bitcoin
+./sources             
+Original design       by bitboy - More Bitcoin logos, buttons, and also some other graphics.mhtml
+Announcement PNG      https://bitcointalk.org/index.php?topic=1631
+Announcement SVG      https://bitcointalk.org/index.php?topic=1756.0
+2024 Design Downloads https://cryptologos.cc/bitcoin
 Icon Bitcoin Vector   https://cryptologos.cc/logos/bitcoin-btc-logo.svg
 Icon Bitcoin Ref PNG  Https://cryptologos.cc/logos/bitcoin-btc-logo.png
+Logo Bitcoin Vector   Https://cryptologos.cc/logos/bitcoin-btc-logo-full.svg
 
 ./concepts
 Concept Designs       https://bitcoin.design/guide/getting-started/visual-language/
@@ -29,7 +34,7 @@ Concept Logo 3        bitcoin-logo.svg (@ottomacig)
 Concept Icon B&Bolt   https://www.reddit.com/user/stashwave/credits to user 
                       https://www.reddit.com/r/lightningnetwork/comments/1487tuv/lightning_network_alt_logo/
                       lightning-network-alt-logo-v0-z07rxbf45q5b1.webp
-                      
+
 ./fonts
 Font Bitcoin          https://www.dafont.com/bitcoin.font
 Font Lightning Bolt   https://www.dafont.com/lightning-bolt.font
