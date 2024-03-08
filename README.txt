@@ -19,7 +19,7 @@ SVG files editor      https://boxy-svg.com/
 Icon Bitcoin          https://cryptologos.cc/logos/bitcoin-btc-logo.svg
 
 ./concepts
-Convect Designs       https://bitcoin.design/guide/getting-started/visual-language/
+Concept Designs       https://bitcoin.design/guide/getting-started/visual-language/
                       https://bitcoin.design/assets/images/guide/getting-started/visual-language/bitboy-promotional-graphics.png
 Concept Logo 1        https://commons.wikimedia.org/wiki/File:Bitcoin_lightning_sticker.png
 Concept Logo 2        https://github.com/lncm/ideas
