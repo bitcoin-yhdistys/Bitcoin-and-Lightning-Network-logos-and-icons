@@ -1,4 +1,3 @@
-
 > COLOR QUICK REFERENCE
 >| ID  | Color  | RGB HEX | RGB Decimal | Description              |
 >-------------------------------------------------------------------
@@ -10,6 +9,8 @@
 >|  16 |  Slate | #fafafa | 250,250,250 |              Print White |     
 >| 246 |   Blue | #002f6c |   24,68,126 |        Finland Flag Blue |
 * Country specific ID Code is from https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
+
+SVG files editor      https://boxy-svg.com/
 
 ./colors              https://www.color-hex.com/color-palette/4955
                       Bitcoin Color Palette.pdf
