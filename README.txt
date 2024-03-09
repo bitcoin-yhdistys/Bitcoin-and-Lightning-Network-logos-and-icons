@@ -1,3 +1,5 @@
+!!! CHANGES are at end
+
 > COLOR QUICK REFERENCE
 >| ID  | Color  | RGB HEX | RGB Decimal | Description              |
 >-------------------------------------------------------------------
@@ -43,3 +45,22 @@ Font Bitcoin          https://www.dafont.com/bitcoin.font
 Font Lightning Bolt   https://www.dafont.com/lightning-bolt.font
 Font Ubuntu           https://www.fontzillion.com/fonts/dalton-maag-ltd/ubuntu
 Font letters          "bitcoin salamaverkko logo - Publisher page 1 as PDF.pdf"
+
+
+Use history tag format:
+### YYYYMMPP-HHMM (Year Month Day - Hour Minute) @author Description
+Detailed Description
+###
+
+
+History
+****************************
+20240309-1018 @tlindi - logo Lightning Network fi_FI
+###
+20240309-1709 @tlindi - logo Lightning Network 
+###
+20240309-1709 @tlindi - icon Lightning Network
+###
+20240308-1709 @tlindi Bitcoin Lightning Network icon and logo initial version
+Finnish Lightning Community created versions from BitcoinLocalization-Finnish -repository
+###
