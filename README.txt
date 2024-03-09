@@ -7,7 +7,8 @@
 >|  04 |   Blue | #0d579b |   13,87,155 |                     Blue |
 >|  05 |  Green | #329239 |   50,146,57 |                    Green |
 >|  06 | Silver | #cccccc | 204,204,204 |              Silver Gray |
->|  16 |  Slate | #fafafa | 250,250,250 |              Print White |     
+>|  16 |  Slate | #fafafa | 250,250,250 |              Print White |
+>|  17 | Yellow | #ffba00 |   255,186,0 |         Lightning Yellow |
 >| 246 |   Blue | #002f6c |   24,68,126 |        Finland Flag Blue |
 * Country specific ID Code is from https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
 
