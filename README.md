@@ -1,3 +1,5 @@
+Please study usage tips from https://bitcoin.design/guide/getting-started/visual-language/
+
 !!! CHANGES are at end
 
 > COLOR QUICK REFERENCE
@@ -61,6 +63,9 @@ Detailed Description
 
 History
 ****************************
+20240320-1453 @tlindi - icon Lightning bolt to yellow on icon and logo files
+archive old orange bot
+###
 20240315-1934 @tlindi - icon Lightning concept into use
 archive other concepts
 ###
