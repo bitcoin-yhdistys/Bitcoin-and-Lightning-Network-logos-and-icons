@@ -12,5 +12,6 @@ Muokattu kääntämällä värit
 Bitcoin ball with bolt "crack" sourced from
 https://commons.wikimedia.org/wiki/File:Bitcoin-lightning-accepted-here-vector-text-to-path.svg
 
-Bolt clolor changed.
+Bolt color changed.
 Adjusted shapes of the ball and bolt.
+Bolt color changed back to yellow.
