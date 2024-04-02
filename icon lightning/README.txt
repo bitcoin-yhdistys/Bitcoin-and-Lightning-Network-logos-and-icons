@@ -1,11 +1,6 @@
-- Bitcoin BTC icon
-
-Ladattu SVG-vektorikuva osoitteesta https://cryptologos.cc/bitcoin
-Lähdetiedostossa olevan B:n vasemmassa kyljessä oleva pieni lovi 
-(näkyy kun suurentaa riittävästi) on korjattu.
-
-- Bitcoin-BTC-icon_inverted.svg
-Muokattu kääntämällä värit
+- Bitcoin Lightning icon
+Design Downloads https://bitcoin.design/guide/getting-started/visual-language/
+Icon Bitcoin Vector https://bitcoin.design/assets/images/guide/getting-started/visual-language/bitcoin-symbol.svg
 
 (C) Lähdetiedosto on public domainissa osoitteessa listatun historiatiedon mukaan.
 
@@ -15,3 +10,6 @@ https://commons.wikimedia.org/wiki/File:Bitcoin-lightning-accepted-here-vector-t
 Bolt color changed.
 Adjusted shapes of the ball and bolt.
 Bolt color changed back to yellow.
+Fixed centering.
+
+Inkscape source files.
